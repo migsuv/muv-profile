@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Miguel Villaruel	</title>
-	<atom:link href="/muv-professionalprofile/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/muv-professionalprofile/</link>
+	<atom:link href="/muv-profile/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/muv-profile/</link>
 	<description>SQA Engineer / RPA Developer</description>
 	<lastBuildDate>Wed, 09 Aug 2023 22:41:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

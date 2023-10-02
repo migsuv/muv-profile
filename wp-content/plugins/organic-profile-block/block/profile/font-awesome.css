@@ -4,8 +4,8 @@
  */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-customizer-widgets/public/fonts/fontawesome-webfont.eot?v=4.7.0');
-  src: url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-customizer-widgets/public/fonts/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-customizer-widgets/public/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-customizer-widgets/public/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-customizer-widgets/public/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-customizer-widgets/public/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  src: url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.eot?v=4.7.0');
+  src: url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('httpmiguelvillaruel.github.io/muv-profile/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
